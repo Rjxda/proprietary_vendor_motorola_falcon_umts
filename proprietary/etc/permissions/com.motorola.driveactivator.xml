@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <permission name="com.motorola.driveactivator.ACCESS_CIDBLOCK" >
+        <group gid="mot_dbvc" />
+    </permission>
+</permissions>
