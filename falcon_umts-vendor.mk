@@ -18,4 +18,4 @@
 
 PRODUCT_PACKAGES += libtime_genoff
 
-$(call inherit-product, vendor/$VENDOR/$DEVICE/$DEVICE-vendor-blobs.mk)
+$(call inherit-product, vendor/motorola/falcon_umts/falcon_umts-vendor-blobs.mk)
