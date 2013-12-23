@@ -16,6 +16,8 @@
 
 # Pick up overlay for features that depend on non-open-source files
 
+PRODUCT_PACKAGES += libtime_genoff
+
 $(call inherit-product, vendor/motorola/falcon_umts/falcon_umts-vendor-blobs.mk)
 
-PRODUCT_PACKAGES += libtime_genoff
+
